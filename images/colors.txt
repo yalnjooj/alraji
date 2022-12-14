@@ -1,0 +1,5 @@
+frist barcode: 1e14ff
+second barcode: 090075
+logo: 221afb
+background-text: e8e8ea
+media: 182548
