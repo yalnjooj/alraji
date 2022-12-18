@@ -62,8 +62,8 @@ accountFeldNum.textContent = `44${rundomNum(2, 0, 9)}0001${rundomNum(3, 0, 9)}60
 IBAN.textContent = `SA138${rundomNum(8, 0, 9)}8060100${rundomNum(5, 0, 9)}`;
 
 let equals = `${rundomNum(1, 80, 120)},${rundomNum(1, 1, 9)}${rundomNum(2, 0, 9)}.${rundomNum(2, 0, 9)}`;
-monyFeldBefor.textContent = equals;
-equalFeld.textContent = equals;
+monyFeldBefor.textContent = equals+" SAR";
+equalFeld.textContent = equals+" SAR";
 
 
 function rundomNum(ittrate, from, to) {
